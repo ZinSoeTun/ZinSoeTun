@@ -8,7 +8,9 @@
                           instagram https://www.instagram.com/zinsoetun123?igsh=MXJtcHE0MW5kbmU4dw==
                           twitter   https://x.com/tunzinsoe?s=09
 - 😄 Pronouns: ... call me James 
-- ⚡ Fun fact: ... I ' m a single from birth to now 😄 
+- ⚡ Fun fact: ... I ' m a single from birth to now 😄
+- Project site link
+- JS calculator project link https://zinsoetun.github.io/JS-calculation-project/
 
 <!---
 ZinSoeTun/ZinSoeTun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
