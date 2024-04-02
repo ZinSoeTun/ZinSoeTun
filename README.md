@@ -9,7 +9,7 @@
                           twitter   https://x.com/tunzinsoe?s=09
 - 😄 Pronouns: ... call me James 
 - ⚡ Fun fact: ... I ' m a single from birth to now 😄
-- Project site link
+- Project site links
 - JS calculator project link https://zinsoetun.github.io/JS-calculation-project/
 - JS stop-watch-project link https://zinsoetun.github.io/JS-Stop-Watch-Project/
 - JS-Quizz-Project link https://zinsoetun.github.io/JS-Quizz-Project/
