@@ -11,6 +11,7 @@
 - ⚡ Fun fact: ... I ' m a single from birth to now 😄
 - Project site link
 - JS calculator project link https://zinsoetun.github.io/JS-calculation-project/
+- JS stop-watch-project link https://zinsoetun.github.io/JS-Stop-Watch-Project/
 
 <!---
 ZinSoeTun/ZinSoeTun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
