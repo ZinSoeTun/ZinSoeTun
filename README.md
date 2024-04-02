@@ -12,6 +12,10 @@
 - Project site link
 - JS calculator project link https://zinsoetun.github.io/JS-calculation-project/
 - JS stop-watch-project link https://zinsoetun.github.io/JS-Stop-Watch-Project/
+- JS-Quizz-Project link https://zinsoetun.github.io/JS-Quizz-Project/
+- JS-Rock-Paper-Scissor-Game-Project link https://zinsoetun.github.io/JS-Rock-Paper-Scissor-Game-Project/
+- JS-music-player-project link https://zinsoetun.github.io/JS-music-player-project/
+- Bootstrap-programming-project link https://zinsoetun.github.io/Bootstrap-programming-project/
 
 <!---
 ZinSoeTun/ZinSoeTun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
