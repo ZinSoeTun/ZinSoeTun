@@ -1,8 +1,7 @@
-- 👋 Hi, I’m ZinSoeTun from Myanmar 
-- 👀 I’m interested in coding and learning languages and also flexible in environment person. 
-- 🌱 I’m currently learning programming languages and other communication languages like English and Korean ...
-- 💞️ I’m looking to collaborate on having different sight with me , positive thinking on everything , when working is starting , very into the works and if not the rest time give the time,
-      advice,how to hundle the pressure and give help with the environmental problems or stuff like that as a my friend or my father or my brother and so on... 
+Hi, I'm ZinSoeTun from Myanmar.
+👀 I'm passionate about coding and learning new languages. I thrive in diverse environments and enjoy adapting to new challenges.
+🌱 Currently, I'm immersing myself in programming languages and enhancing my communication skills in English and Korean.
+💞️ I'm eager to collaborate with like-minded individuals who bring diverse perspectives and a positive outlook to every project. I believe in working with dedication when it's time to focus, and valuing rest and reflection during downtime. I'm always open to advice on managing pressure and eager to contribute to solving environmental issues. Whether as a friend, mentor, or collaborator, I look forward to building meaningful connections and working together towards shared goals.
 - 📫 How to reach me
        You can contact me faccebook https://www.facebook.com/profile.php?id=100082567453654&mibextid=ZbWKwL
                           instagram https://www.instagram.com/zinsoetun123?igsh=MXJtcHE0MW5kbmU4dw==
