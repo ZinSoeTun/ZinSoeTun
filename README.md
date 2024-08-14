@@ -1,16 +1,26 @@
 <h1>👋 Hi, I'm Zin Soe Tun!</h1>
-🚀 About Me <br>
-I am a passionate Web Developer and Backend Developer <br> with a strong foundation in both frontend and backend technologies.<br>
-With a keen eye for detail and a commitment to delivering high-quality code, <br> I strive to create seamless and efficient web applications that solve real-world problems.<br>
-👀 I'm passionate about coding and learning new languages. <br>
-I thrive in diverse environments and enjoy adapting to new challenges.<br>
-🌱 Currently, I'm immersing myself in programming languages <br> 
-and enhancing my communication skills in English and Korean.<br>
-💞️ I'm eager to collaborate with like-minded individuals who bring <br>
-diverse perspectives and a positive outlook to every project.<br><br>
-I believe in working with dedication when it's time to focus, and valuing rest and reflection during downtime.<br>
-I'm always open to advice on managing pressure and eager to contribute to solving environmental issues.<br>
-Whether as a friend, mentor, or collaborator, I look forward to building meaningful connections and working together towards shared goals.<br>
+<h2>🚀 About Me</h2> <br>
+<pre>I am a passionate Web Developer and Backend Developer 
+     with a strong foundation in both frontend and backend 
+     technologies. With a keen eye for detail and a commitment
+     to delivering high-quality code,I strive to create seamless
+  and efficient web applications that solve real-world problems.</pre><br>
+  
+👀 <pre> I'm passionate about coding and learning new languages.
+         I thrive in diverse environments and enjoy adapting to new challenges.</pre>
+         
+🌱 <pre> Currently, I'm immersing myself in programming languages
+         and enhancing my communication skills in English and Korean.</pre>
+          
+💞️ <pre> I'm eager to collaborate with like-minded individuals who bring
+          diverse perspectives and a positive outlook to every project.</pre><br>
+          
+<pre> I believe in working with dedication when it's time to focus, and
+      valuing rest and reflection during downtime.I'm always open to 
+      advice on managing pressure and eager to contribute to solving 
+      environmental issues.Whether as a friend, mentor, or collaborator,
+      I look forward to building meaningful connections and working together
+      towards shared goals.</pre>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/James Austin) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zinsoetun123) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@@james.justin20) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@tunzinsoe) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@zinsoetun5485) 
