@@ -4,15 +4,15 @@
      with a strong foundation in both frontend and backend 
      technologies. With a keen eye for detail and a commitment
      to delivering high-quality code,I strive to create seamless
-  and efficient web applications that solve real-world problems.</pre><br>
+     and efficient web applications that solve real-world problems.</pre><br>
   
-👀 <pre> I'm passionate about coding and learning new languages.
+ <pre>👀 I'm passionate about coding and learning new languages.
          I thrive in diverse environments and enjoy adapting to new challenges.</pre>
          
-🌱 <pre> Currently, I'm immersing myself in programming languages
+ <pre>🌱 Currently, I'm immersing myself in programming languages
          and enhancing my communication skills in English and Korean.</pre>
           
-💞️ <pre> I'm eager to collaborate with like-minded individuals who bring
+ <pre>💞️ I'm eager to collaborate with like-minded individuals who bring
           diverse perspectives and a positive outlook to every project.</pre><br>
           
 <pre> I believe in working with dedication when it's time to focus, and
