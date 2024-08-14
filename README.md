@@ -38,22 +38,22 @@
 
 <h2>📫 How to Reach Me</h2> <br>
 <pre>
-<a href="https://www.facebook.com/yourprofile" target="_blank">
+<a href="[https://www.facebook.com/yourprofile](https://www.facebook.com/profile.php?id=100082567453654&mibextid=ZbWKwL)">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
 </a>
-<a href="https://www.instagram.com/yourprofile" target="_blank">
+<a href="[https://www.instagram.com/yourprofile](https://www.instagram.com/zinsoetun123?igsh=MXJtcHE0MW5kbmU4dw==)">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
-<a href="https://twitter.com/yourprofile" target="_blank">
+<a href="[https://twitter.com/yourprofile](https://x.com/tunzinsoe?s=09)">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
 </a>
-<a href="https://www.tiktok.com/@yourprofile" target="_blank">
+<a href="[https://www.tiktok.com/@yourprofile](https://www.tiktok.com/@james.justin20?_t=8orPXc2PDAT&_r=1)">
     <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
 </a>
-<a href="viber://chat?number=yourphonenumber" target="_blank">
+<a href="viber://chat?number=+959988911436">
     <img src="https://img.shields.io/badge/Viber-%238B4AEB.svg?style=for-the-badge&logo=viber&logoColor=white" alt="Viber" />
 </a>
-<a href="https://www.youtube.com/c/yourchannel" target="_blank">
+<a href="[https://www.youtube.com/c/yourchannel](https://www.youtube.com/@zinsoetun5485)">
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
 </a>
 </pre>
