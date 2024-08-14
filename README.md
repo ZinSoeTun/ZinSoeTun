@@ -50,7 +50,7 @@
 <a href="https://www.tiktok.com/@james.justin20?_t=8orPXc2PDAT&_r=1">
     <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
 </a>
-<a href="viber://chat?number=+959988911436">
+<a href="https://vb.me/letsChatOnViber">
     <img src="https://img.shields.io/badge/Viber-%238B4AEB.svg?style=for-the-badge&logo=viber&logoColor=white" alt="Viber" />
 </a>
 <a href="https://www.youtube.com/@zinsoetun5485">
