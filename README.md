@@ -38,6 +38,53 @@
 
 <h2>📫 How to Reach Me</h2> <br>
 <pre>
+
+## 🌐 Connect with Me
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.facebook.com/yourprofile" target="_blank">
+        <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.instagram.com/yourprofile" target="_blank">
+        <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://twitter.com/yourprofile" target="_blank">
+        <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://www.tiktok.com/@yourprofile" target="_blank">
+        <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="viber://chat?number=yourphonenumber" target="_blank">
+        <img src="https://img.shields.io/badge/Viber-%238B4AEB.svg?style=for-the-badge&logo=viber&logoColor=white" alt="Viber" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://t.me/yourprofile" target="_blank">
+        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="3">
+      <a href="https://www.youtube.com/c/yourchannel" target="_blank">
+        <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+      </a>
+    </td>
+  </tr>
+</table>
+
      
 <div align="center">
 <a href="https://www.facebook.com/profile.php?id=100082567453654&mibextid=ZbWKwL">
