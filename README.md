@@ -52,7 +52,7 @@
     </td>
     <td align="center">
          <a href="https://x.com/tunzinsoe?s=09">
-    <img src="https://img.shields.io/badge/X-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white" alt="X" />
 </a>
     </td>
   </tr>
