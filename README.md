@@ -38,6 +38,8 @@
 
 <h2>📫 How to Reach Me</h2> <br>
 <pre>
+     
+<div align="center">
 <a href="https://www.facebook.com/profile.php?id=100082567453654&mibextid=ZbWKwL">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
 </a>
@@ -47,6 +49,9 @@
 <a href="https://x.com/tunzinsoe?s=09">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
 </a>
+</div>
+
+<div align="center" style="margin-top: 10px;">  
 <a href="https://www.tiktok.com/@james.justin20?_t=8orPXc2PDAT&_r=1">
     <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
 </a>
@@ -56,6 +61,7 @@
 <a href="https://www.youtube.com/@zinsoetun5485">
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
 </a>
+</div>
 </pre>
 
 # 💻 Tech Stack:
