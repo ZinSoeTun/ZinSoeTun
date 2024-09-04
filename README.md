@@ -1,12 +1,12 @@
 <h1>👋 Hi, I'm Zin Soe Tun!</h1>
 <h2>🚀 About Me</h2> <br>
-<pre>
+<p>
      I am a passionate Web Developer and Backend Developer 
      with a strong foundation in both frontend and backend 
      technologies. With a keen eye for detail and a commitment
      to delivering high-quality code,I strive to create seamless
      and efficient web applications that solve real-world problems.
-</pre><br>
+</p><br>
 
  <h2>👀 Passionate about</h2> <br>
  <pre>
