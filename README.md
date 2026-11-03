@@ -1,105 +1,202 @@
-<h1>👋 Hi, I'm Zin Soe Tun!</h1>
-<h2>🚀 About Me</h2> <br>
+<div align="center">
+
+# Hi, I'm Zin Soe Tun 👋
+
+### Full-Stack Web Developer | Laravel & PHP Specialist
+
+Building scalable web applications, business management systems, and practical digital solutions.
+
 <p>
-     I am a passionate Web Developer and Software Developer 
-     with a strong foundation in both frontend and backend 
-     technologies. With a keen eye for detail and a commitment
-     to delivering high-quality code,I strive to create seamless
-     and efficient web applications that solve real-world problems.
-</p><br>
-
- <h2>👀 Passionate about</h2> <br>
- <p>
-         I'm passionate about coding and learning new languages.
-         I thrive in diverse environments and enjoy adapting to new challenges.
- </p>
-
- <h2>🌱 What I'm Learning</h2> <br>
- <p>
-         Currently, I'm immersing myself in programming languages
-         and enhancing my communication skills in English and Korean.
- </p>
-
- <h2>💞️ Eager to</h2> <br>
- <p>
-          I'm eager to collaborate with like-minded individuals who bring
-          diverse perspectives and a positive outlook to every project.
- </p><br>
-
-<h2>🌍 Let's Collaborate!</h2> <br>
-<p> 
-      I believe in working with dedication when it's time to focus, and
-      valuing rest and reflection during downtime.I'm always open to 
-      advice on managing pressure and eager to contribute to solving 
-      environmental issues.Whether as a friend, mentor, or collaborator,
-      I look forward to building meaningful connections and working together
-      towards shared goals.
+  <a href="https://zinsoetun.github.io/my-porfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit_My_Portfolio-2563EB?style=for-the-badge&logo=firefox&logoColor=white" />
+  </a>
+  <a href="https://github.com/ZinSoeTun">
+    <img src="https://img.shields.io/badge/GitHub-Explore_My_Projects-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:tunzinsoe786@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
-<h2>📫 How to Reach Me</h2> <br>
-<p>
-<table>
-  <tr>
-    <td align="center">
-     <a href="https://www.facebook.com/profile.php?id=100082567453654&mibextid=ZbWKwL">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-    </a>
-    </td>
-    <td align="center">
-     <a href="https://www.instagram.com/zinsoetun123?igsh=MXJtcHE0MW5kbmU4dw==">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-</a>
-    </td>
-    <td align="center">
-         <a href="https://x.com/tunzinsoe?s=09">
-    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
-</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-     <a href="https://www.tiktok.com/@james.justin20?_t=8orPXc2PDAT&_r=1">
-    <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
-</a>
-    </td>
-    <td align="center">
-    <a href="https://vb.me/letsChatOnViber">
-    <img src="https://img.shields.io/badge/Viber-%238B4AEB.svg?style=for-the-badge&logo=viber&logoColor=white" alt="Viber" />
-</a>
-    </td>
-    <td align="center">
-      <a href="https://t.me/Fly02345">
-        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="3">
-     <a href="https://www.youtube.com/@zinsoetun5485">
-    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-</a>
-    </td>
-  </tr>
-</table>
-</p>
-<p>
-     This is my porfolio link ->  https://zinsoetun.github.io/my-porfolio/
-</p>
-
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![PythonAnywhere](https://img.shields.io/badge/pythonanywhere-%232F9FD7.svg?style=for-the-badge&logo=pythonanywhere&logoColor=151515) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)[Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ZinSoeTun&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ZinSoeTun&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ZinSoeTun&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ZinSoeTun&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍💻 About Me
 
+I'm a **Full-Stack Web Developer** focused on designing and developing reliable, scalable, and user-friendly software solutions.
 
-<!---
-ZinSoeTun/ZinSoeTun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+My primary expertise is in **PHP, Laravel, JavaScript, React, and MySQL**, with additional experience in cross-platform mobile development using Flutter.
+
+I enjoy transforming business requirements into practical software applications, from backend architecture and database design to responsive user interfaces and API integrations.
+
+I also leverage AI-assisted development tools to improve development efficiency, accelerate implementation, and support code quality.
+
+**What I focus on:**
+- Full-Stack Web Application Development
+- Business Management Systems & Enterprise Applications
+- POS & Inventory Management Systems
+- RESTful API Development & Integration
+- Database Design & Application Architecture
+- Responsive UI Development
+- AI-Assisted Software Development
+
+---
+
+## 🛠️ Core Expertise
+
+| Area | Technologies & Skills |
+|---|---|
+| Backend Development | PHP, Laravel, Node.js |
+| Frontend Development | JavaScript, React, HTML5, CSS3 |
+| Mobile Development | Flutter |
+| Database | MySQL, MariaDB, SQL |
+| UI Frameworks | Bootstrap, Tailwind CSS |
+| API Development | REST APIs, JWT, Third-Party Integration |
+| Development Tools | Git, GitHub, Postman |
+| AI Development Tools | GitHub Copilot, Cursor, Claude |
+
+---
+
+## 🚀 Featured Projects
+
+Here are some of the software solutions and systems I have been developing.
+
+### 1. POS & Inventory Management System
+**Technologies:** Laravel, PHP, MySQL, JavaScript
+
+A business management solution focused on simplifying daily shop operations.
+
+- Multi-shop and tenant-based architecture.
+- Inventory and stock management.
+- Sales, purchasing, and transaction management.
+- Customer and supplier management.
+- Reporting and business analytics.
+- English and Burmese language support.
+
+### 2. HR Management System
+**Technologies:** Laravel, PHP, MySQL, JavaScript
+
+An enterprise-oriented application designed to organize employee information and business workflows.
+
+- Employee management.
+- Workflow and task management.
+- Centralized data management.
+- Structured application architecture.
+
+### 3. Stationery Management System
+**Technologies:** Laravel, PHP, MySQL, JavaScript
+
+A business software solution designed to support stationery shop operations and management workflows.
+
+### 4. Email Hub System
+**Technologies:** PHP, Laravel, JavaScript, API Integration
+
+A centralized email-related software project focused on organizing and managing email workflows.
+
+### 5. Excel Import & Export System
+**Technologies:** PHP, Laravel, MySQL, Excel Integration
+
+A software solution focused on simplifying data import, export, and business data processing.
+
+---
+
+## 💻 Technology Stack
+
+### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,python" />
+</p>
+
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,tailwind" />
+</p>
+
+### Mobile Development
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart" />
+</p>
+
+### Database & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,git,github,postman,vscode" />
+</p>
+
+### Cloud & Development Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,cloudflare,githubactions" />
+</p>
+
+---
+
+## 🌱 Currently Working On
+
+- Improving business management and enterprise software solutions.
+- Developing and testing multi-tenant SaaS applications.
+- Enhancing Laravel application architecture and backend performance.
+- Exploring modern frontend and mobile development approaches.
+- Improving software quality through AI-assisted development workflows.
+
+---
+
+## 🤝 Collaboration & Opportunities
+
+I'm interested in collaborating on projects involving:
+
+- Full-Stack Web Application Development
+- Laravel & PHP Development
+- Business Management Software
+- POS & Inventory Systems
+- REST API Development
+- Excel Import & Export Automation
+
+I'm always open to learning from other developers, sharing ideas, and building useful software together.
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ZinSoeTun&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZinSoeTun&layout=compact&theme=github_dark&hide_border=true" />
+
+<img width="70%" src="https://streak-stats.demolab.com?user=ZinSoeTun&theme=github-dark-blue&hide_border=true" />
+
+</div>
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+
+<a href="mailto:tunzinsoe786@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://github.com/ZinSoeTun">
+  <img src="https://img.shields.io/badge/GitHub-ZinSoeTun-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://zinsoetun.github.io/my-porfolio/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit_Website-2563EB?style=for-the-badge&logo=firefox&logoColor=white" />
+</a>
+
+<a href="https://t.me/Fly02345">
+  <img src="https://img.shields.io/badge/Telegram-Contact-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### "Building software that solves real-world problems."
+
+Thanks for visiting my profile! 😊
+
+</div>
